@@ -1,5 +1,1 @@
-# coffee_machine
-This is my first project.
-
-
-My name is Ahad
+console.log("My name is Rayan")
